@@ -1,6 +1,7 @@
 {
     "name": "Adblockr",
     "version": "1.0",
+    "description":"A simple ad-blocker",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
